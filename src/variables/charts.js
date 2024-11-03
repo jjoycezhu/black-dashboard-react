@@ -26,7 +26,7 @@ let chart1_2_options = {
     display: false,
   },
   tooltips: {
-    backgroundColor: "#ba5454",
+    backgroundColor: "#f5f5f5",
     titleFontColor: "#333",
     bodyFontColor: "#666",
     bodySpacing: 4,
